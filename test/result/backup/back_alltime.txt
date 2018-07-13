@@ -1,0 +1,252 @@
+
+SDU-LEGENDFrames per second:9.73476656589, imgNum: 500, runtime: 51.3622999191
+
+SDU-LEGENDFrames per second:10.2764745601, imgNum: 500, runtime: 48.654818058
+
+SDU-LEGENDFrames per second:10.5643988762, imgNum: 1000, runtime: 94.6575391293
+
+SDU-LEGENDFrames per second:2.05647655475, imgNum: 13, runtime: 6.32149195671
+
+SDU-LEGENDFrames per second:10.8111625239, imgNum: 2061, runtime: 190.636297941
+
+SDU-LEGENDFrames per second:7.06583427173, imgNum: 77, runtime: 10.8975100517
+
+SDU-LEGENDFrames per second:6.71376106624, imgNum: 105, runtime: 15.6395199299
+
+SDU-LEGENDFrames per second:6.99549812114, imgNum: 105, runtime: 15.0096530914
+
+SDU-LEGENDFrames per second:10.4275337586, imgNum: 1069, runtime: 102.517050028
+
+SDU-LEGENDFrames per second:9.09683359773, imgNum: 1069, runtime: 117.513417006
+
+SDU-LEGENDFrames per second:10.5865862163, imgNum: 1069, runtime: 100.976837873
+
+SDU-LEGENDFrames per second:11.2493576276, imgNum: 5953, runtime: 529.185771942
+
+SDU-LEGENDFrames per second:10.7484202868, imgNum: 5953, runtime: 553.848829985
+
+SDU-LEGENDFrames per second:9.35575406141, imgNum: 1000, runtime: 106.88609314
+
+SDU-LEGENDFrames per second:12.6997120006, imgNum: 1000, runtime: 78.741943121
+
+SDU-LEGENDFrames per second:13.7342089125, imgNum: 1000, runtime: 72.8108918667
+
+SDU-LEGENDFrames per second:14.0796652298, imgNum: 1000, runtime: 71.0244159698
+
+SDU-LEGENDFrames per second:13.7685384414, imgNum: 1000, runtime: 72.6293501854
+
+SDU-LEGENDFrames per second:10.0589461163, imgNum: 1000, runtime: 99.4139931202
+
+SDU-LEGENDFrames per second:10.0253261684, imgNum: 1000, runtime: 99.7473781109
+
+SDU-LEGENDFrames per second:9.65657939069, imgNum: 1000, runtime: 103.556338072
+
+SDU-LEGENDFrames per second:10.4411188918, imgNum: 1000, runtime: 95.7751760483
+
+SDU-LEGENDFrames per second:11.0489571678, imgNum: 1000, runtime: 90.5062789917
+
+SDU-LEGENDFrames per second:10.421714241, imgNum: 1000, runtime: 95.9535040855
+
+SDU-LEGENDFrames per second:9.93039054541, imgNum: 1000, runtime: 100.700973988
+
+SDU-LEGENDFrames per second:10.6356000501, imgNum: 1000, runtime: 94.0238440037
+
+SDU-LEGENDFrames per second:10.1402771329, imgNum: 1000, runtime: 98.6166341305
+
+SDU-LEGENDFrames per second:16.0611010372, imgNum: 1000, runtime: 62.2622320652
+
+SDU-LEGENDFrames per second:16.5899993176, imgNum: 1000, runtime: 60.2772779465
+
+SDU-LEGENDFrames per second:16.3263810762, imgNum: 1000, runtime: 61.2505609989
+
+SDU-LEGENDFrames per second:16.0672611848, imgNum: 1000, runtime: 62.2383608818
+
+SDU-LEGENDFrames per second:16.4839742089, imgNum: 1000, runtime: 60.6649820805
+
+SDU-LEGENDFrames per second:11.4477758154, imgNum: 1000, runtime: 87.3532130718
+
+SDU-LEGENDFrames per second:11.6370530173, imgNum: 1000, runtime: 85.9324090481
+
+SDU-LEGENDFrames per second:10.1102820453, imgNum: 1000, runtime: 98.909209013
+
+SDU-LEGENDFrames per second:11.0389688731, imgNum: 1000, runtime: 90.5881710052
+
+SDU-LEGENDFrames per second:10.7763029758, imgNum: 1000, runtime: 92.7962031364
+
+SDU-LEGENDFrames per second:10.7808518046, imgNum: 1000, runtime: 92.7570490837
+
+SDU-LEGENDFrames per second:10.1296167306, imgNum: 1000, runtime: 98.7204182148
+
+SDU-LEGENDFrames per second:11.5316272784, imgNum: 1000, runtime: 86.7180299759
+
+SDU-LEGENDFrames per second:14.8276502681, imgNum: 1000, runtime: 67.4415690899
+
+SDU-LEGENDFrames per second:14.9773972676, imgNum: 1000, runtime: 66.7672748566
+
+SDU-LEGENDFrames per second:15.1352897052, imgNum: 1000, runtime: 66.0707538128
+
+SDU-LEGENDFrames per second:14.3159577849, imgNum: 1000, runtime: 69.8521199226
+
+SDU-LEGENDFrames per second:14.9576605141, imgNum: 1000, runtime: 66.8553748131
+
+SDU-LEGENDFrames per second:14.952930915, imgNum: 1000, runtime: 66.8765211105
+
+SDU-LEGENDFrames per second:14.848306636, imgNum: 1000, runtime: 67.3477470875
+
+SDU-LEGENDFrames per second:13.7599413907, imgNum: 1000, runtime: 72.6747281551
+
+SDU-LEGENDFrames per second:14.6809319, imgNum: 1000, runtime: 68.1155669689
+
+SDU-LEGENDFrames per second:15.0374664269, imgNum: 1000, runtime: 66.5005640984
+
+SDU-LEGENDFrames per second:14.8692048656, imgNum: 1000, runtime: 67.2530918121
+
+SDU-LEGENDFrames per second:14.9798890101, imgNum: 1000, runtime: 66.7561688423
+
+SDU-LEGENDFrames per second:11.5559637228, imgNum: 1000, runtime: 86.5354049206
+
+SDU-LEGENDFrames per second:11.8633365412, imgNum: 1000, runtime: 84.2933180332
+
+SDU-LEGENDFrames per second:11.3196603924, imgNum: 1000, runtime: 88.3418729305
+
+SDU-LEGENDFrames per second:11.8004646334, imgNum: 1000, runtime: 84.7424259186
+
+SDU-LEGENDFrames per second:10.1155357903, imgNum: 1000, runtime: 98.8578381538
+
+SDU-LEGENDFrames per second:10.220746562, imgNum: 5953, runtime: 582.442775965
+
+SDU-LEGENDFrames per second:11.9977033815, imgNum: 1000, runtime: 83.3492851257
+
+SDU-LEGENDFrames per second:11.7999497722, imgNum: 5953, runtime: 504.493672848
+
+SDU-LEGENDFrames per second:16.4625841861, imgNum: 5953, runtime: 361.607869864
+
+SDU-LEGENDFrames per second:14.4519145159, imgNum: 5, runtime: 0.34597492218
+
+SDU-LEGENDFrames per second:14.711074946, imgNum: 5, runtime: 0.339879989624
+
+SDU-LEGENDFrames per second:15.5333086438, imgNum: 5, runtime: 0.321888923645
+
+SDU-LEGENDFrames per second:14.2598019683, imgNum: 5, runtime: 0.350636005402
+
+SDU-LEGENDFrames per second:6.75117308019, imgNum: 5, runtime: 0.740612030029
+
+SDU-LEGENDFrames per second:10.8900928109, imgNum: 5, runtime: 0.459132909775
+
+SDU-LEGENDFrames per second:9.5768367859, imgNum: 5, runtime: 0.522093057632
+
+SDU-LEGENDFrames per second:14.8940694367, imgNum: 5, runtime: 0.335704088211
+
+SDU-LEGENDFrames per second:9.39376320832, imgNum: 5, runtime: 0.532268047333
+
+SDU-LEGENDFrames per second:11.435682086, imgNum: 5, runtime: 0.437227964401
+
+SDU-LEGENDFrames per second:5.84201516808, imgNum: 5, runtime: 0.855869054794
+
+SDU-LEGENDFrames per second:2.98392199509, imgNum: 5, runtime: 1.67564702034
+
+SDU-LEGENDFrames per second:4.11312409241, imgNum: 5, runtime: 1.21562099457
+
+SDU-LEGENDFrames per second:11.0210101307, imgNum: 5953, runtime: 540.150125027
+
+SDU-LEGENDFrames per second:11.8538516601, imgNum: 5953, runtime: 502.199636936
+
+SDU-LEGENDFrames per second:16.5836486444, imgNum: 5953, runtime: 358.968049049
+
+SDU-LEGENDFrames per second:6.66731221004, imgNum: 92, runtime: 13.7986638546
+
+SDU-LEGENDFrames per second:12.2524504919, imgNum: 92, runtime: 7.50870203972
+
+SDU-LEGENDFrames per second:15.7741959207, imgNum: 92, runtime: 5.83230996132
+
+SDU-LEGENDFrames per second:16.4937183828, imgNum: 92, runtime: 5.57788109779
+
+SDU-LEGENDFrames per second:16.437700303, imgNum: 92, runtime: 5.59688997269
+
+SDU-LEGENDFrames per second:10.3143708147, imgNum: 5953, runtime: 577.155902863
+
+SDU-LEGENDFrames per second:13.5786939075, imgNum: 5953, runtime: 438.407407999
+
+SDU-LEGENDFrames per second:19.6460625036, imgNum: 5953, runtime: 303.012372017
+
+SDU-LEGENDFrames per second:19.2062377192, imgNum: 1000, runtime: 52.0664179325
+
+SDU-LEGENDFrames per second:19.2920820413, imgNum: 1000, runtime: 51.8347370625
+
+SDU-LEGENDFrames per second:16.3607744108, imgNum: 1000, runtime: 61.1218011379
+
+SDU-LEGENDFrames per second:9.96846289175, imgNum: 1000, runtime: 100.316368818
+
+SDU-LEGENDFrames per second:13.4965486897, imgNum: 1000, runtime: 74.0930161476
+
+SDU-LEGENDFrames per second:13.6522657279, imgNum: 1000, runtime: 73.2479150295
+
+SDU-LEGENDFrames per second:13.5870752004, imgNum: 1000, runtime: 73.5993571281
+
+SDU-LEGENDFrames per second:14.6305104611, imgNum: 92, runtime: 6.28822898865
+
+SDU-LEGENDFrames per second:14.6772460485, imgNum: 92, runtime: 6.26820588112
+
+SDU-LEGENDFrames per second:15.2084318685, imgNum: 92, runtime: 6.04927587509
+
+SDU-LEGENDFrames per second:15.1241165275, imgNum: 92, runtime: 6.08299994469
+
+SDU-LEGENDFrames per second:14.6031349233, imgNum: 92, runtime: 6.30001711845
+
+SDU-LEGENDFrames per second:15.1209790102, imgNum: 92, runtime: 6.08426213264
+
+SDU-LEGENDFrames per second:15.3009133616, imgNum: 92, runtime: 6.01271295547
+
+SDU-LEGENDFrames per second:21.4963965807, imgNum: 92, runtime: 4.2797870636
+
+SDU-LEGENDFrames per second:19.7491768958, imgNum: 92, runtime: 4.65842199326
+
+SDU-LEGENDFrames per second:19.648915318, imgNum: 5953, runtime: 302.968377829
+
+SDU-LEGENDFrames per second:19.1070502932, imgNum: 5953, runtime: 311.56038785
+
+SDU-LEGENDFrames per second:13.9472464008, imgNum: 5953, runtime: 426.822602034
+
+SDU-LEGENDFrames per second:19.1121785323, imgNum: 5953, runtime: 311.476788998
+
+SDU-LEGENDFrames per second:19.9183696158, imgNum: 5953, runtime: 298.869843006
+
+SDU-LEGENDFrames per second:19.9409520841, imgNum: 5953, runtime: 298.531382799
+
+SDU-LEGENDFrames per second:19.9975932368, imgNum: 5953, runtime: 297.685822964
+
+SDU-LEGENDFrames per second:19.5583524636, imgNum: 1000, runtime: 51.1290509701
+
+SDU-LEGENDFrames per second:6.73227194116, imgNum: 1000, runtime: 148.538265944
+
+SDU-LEGENDFrames per second:6.62567612363, imgNum: 1000, runtime: 150.927993059
+
+SDU-LEGENDFrames per second:6.33868682326, imgNum: 5, runtime: 0.788806915283
+
+SDU-LEGENDFrames per second:6.28339628758, imgNum: 5, runtime: 0.795747995377
+
+SDU-LEGENDFrames per second:6.3045429703, imgNum: 5, runtime: 0.793078899384
+
+SDU-LEGENDFrames per second:4.29487274008, imgNum: 5, runtime: 1.16417884827
+
+SDU-LEGENDFrames per second:5.0117326266, imgNum: 5, runtime: 0.997658967972
+
+SDU-LEGENDFrames per second:7.59250912248, imgNum: 5, runtime: 0.65854382515
+
+SDU-LEGENDFrames per second:24.4371556229, imgNum: 1000, runtime: 40.9212927818
+
+SDU-LEGENDFrames per second:24.1532509325, imgNum: 1000, runtime: 41.4022941589
+
+SDU-LEGENDFrames per second:19.8856970107, imgNum: 1000, runtime: 50.2874000072
+
+SDU-LEGENDFrames per second:7.27117864631, imgNum: 1000, runtime: 137.529284954
+
+SDU-LEGENDFrames per second:9.44421252935, imgNum: 1000, runtime: 105.884953022
+
+SDU-LEGENDFrames per second:7.73308947167, imgNum: 5, runtime: 0.646572113037
+
+SDU-LEGENDFrames per second:7.35433544701, imgNum: 5, runtime: 0.679871082306
+
+SDU-LEGENDFrames per second:7.41989342593, imgNum: 5, runtime: 0.673864126205
+
+SDU-LEGENDFrames per second:4.92134168063, imgNum: 5, runtime: 1.01598310471

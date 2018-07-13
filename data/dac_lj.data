@@ -1,0 +1,6 @@
+classes= 82
+train  = /home/embedded/py-faster-rcnn/data/train.txt
+valid  = /home/embedded/py-faster-rcnn/data/VOCdevkit2007/VOC2007/dac_test.txt
+names = /home/embedded/zcq/yolov3/darknet3/data/dac_lj.names
+backup = backup
+

@@ -1,0 +1,1 @@
+python validation.py ../test/result/xml/SDU-LEGEND/ /home/nvidia/fish-dac/test/result/xml_origin/
